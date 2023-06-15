@@ -16,11 +16,12 @@ To identify the most informative features, various feature selection techniques 
 ## Model Selection and Evaluation
 Several machine learning models are trained and evaluated using appropriate evaluation metrics such as accuracy, precision, recall, and F1-score. The models considered may include logistic regression, support vector machines, decision trees, random forests, or gradient boosting algorithms.
 
-## References
-[List your references here, including papers, books, or online resources that you consulted during the project.]
-
 STEPS:
-![Alt Text](images_model1/I1.png)
-![Alt Text](images_model1/I2.png)
-![Alt Text](images_model1/I3.png)
-![Alt Text](images_model1/I4.png)
+![Alt Text](images/Repo.png)
+![Alt Text](images/Model_1.png)
+![Alt Text](images/Model_2.png)
+![Alt Text](images/git_1.png)
+![Alt Text](images/git_2.png)
+![Alt Text](images/git_3.png)
+![Alt Text](images/git_4.png)
+![Alt Text](images/git_5.png)
