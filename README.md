@@ -20,8 +20,7 @@ Several machine learning models are trained and evaluated using appropriate eval
 [List your references here, including papers, books, or online resources that you consulted during the project.]
 
 STEPS:
-![Alt Text](images_model2/21.png)
-![Alt Text](images_model2/22.png)
-![Alt Text](images_model2/23.png)
+![Alt Text](images/Push.png)
+![Alt Text](images/Switch_branch.png)
 
 
