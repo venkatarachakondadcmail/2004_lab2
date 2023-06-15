@@ -21,6 +21,6 @@ Several machine learning models are trained and evaluated using appropriate eval
 
 STEPS:
 ![Alt Text](images/Push.png)
-![Alt Text](images/Switch_branch.png)
+![Alt Text](images/Swich_branch.png)
 
 
